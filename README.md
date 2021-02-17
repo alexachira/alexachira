@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexachira
 - 👀 I’m interested in collaborating with experienced developers to sharpen my programming skills
 - 🌱 I’m currently learning java,javascript,python,c,c++
-- 💞️ I’m looking to collaborate on developers who are based on the above languages
+- 💞️ I’m looking to collaborate with developers who are based on the above languages
 - 📫 How to reach me -alekoachi2@gmail.com,07037341278
 
 <!---
